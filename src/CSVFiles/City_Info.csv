@@ -1,0 +1,21 @@
+Hotel_City,Hotel_State,Hotel_Country
+Donauinsel,9,AT
+Vienna,9,AT
+Paris,75,FR
+Paris 06,75,FR
+Paris 12,75,FR
+Paris 13,75,FR
+Boulogne Billancourt,92,FR
+Vincennes,94,FR
+Barcelona,B,ES
+El Prat de Llobregat,B,ES
+Milan,MI,IT
+Amsterdam,NH,NL
+Amsterdam Zuidoost,NH,NL
+Barcelona,NULL,ES
+Paris,NULL,FR
+Vienna,NULL,AT
+Fitzrovia,XGL,GB
+London,XGL,GB
+Paddington,XGL,GB
+Woodford Green,XGL,GB
